@@ -1,0 +1,11 @@
+body {
+    font: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif:
+    padding-top: 70px;
+}
+#Main.jpg {
+    width: 220;
+    height: 220;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(red, green, blue, alpha)
+}
